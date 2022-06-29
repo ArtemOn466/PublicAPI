@@ -1,0 +1,1 @@
+{"data":{"id":1,"sport_id":1,"name":"Ralph Hasenhüttl","photo":"https://tipsscore.com/resb/coach/ralph-hasenhuttl.png","date_birth":null,"nationality_code":"AUT","preferred_formation":"4-2-2-2","team":{"name":"Southampton"},"performance":{"wins":210,"losses":175,"draws":133,"goals_scored":749,"goals_conceded":717,"total_points":763}}}
